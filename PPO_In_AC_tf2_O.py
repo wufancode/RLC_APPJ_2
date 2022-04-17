@@ -219,7 +219,7 @@ test_seq = [0.15 + 0.3 / NUM * i for i in range(NUM)] + \
            [0.2] * NUM + \
            [0.7] * NUM  # +\
 # test_seq = [x/3.5 for x in seq]
-ROLL_STEPS = 100
+ROLL_STEPS = 50
 STEPS = 100
 EPISODES = 1000
 train = 1
